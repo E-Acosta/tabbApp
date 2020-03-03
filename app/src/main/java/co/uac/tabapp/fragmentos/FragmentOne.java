@@ -27,7 +27,7 @@ public class FragmentOne extends Fragment {
         View view = inflater.inflate(R.layout.fragment_one, container, false);
         WebView webView = view.findViewById(R.id.webView);
         webView.getSettings().setJavaScriptEnabled(true);
-        webView.loadUrl("https://tmofans.com/");
+        webView.loadUrl("https://es.stackoverflow.com/");
         return view;
     }
 }

@@ -21,7 +21,7 @@ import co.uac.tabapp.R;
 public class FragmentTwo extends Fragment {
 
 
-    private List<String> supplierNames = Arrays.asList("Suresh Dasari", "Rohini Alavala", "Trishika Dasari", "Praveen Alavala", "Madav Sai", "Hamsika Yemineni");
+    private List<String> supplierNames = Arrays.asList("Death note","Naruto","Dragon Ball","Pokemon","Digimon","Evangelion","Tate no Yuusha");
     public FragmentTwo() {
         // Required empty public constructor
     }
